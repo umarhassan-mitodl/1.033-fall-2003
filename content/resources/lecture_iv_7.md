@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/0a85cb33ad51ad3adbe41f6f55db590a_lecture_iv_7.pdf
 file_size: 158078
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
