@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/cd55644ba51ac29a4cb24795ad64aa4c_quiz2_solution.pdf
 file_size: 243530
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

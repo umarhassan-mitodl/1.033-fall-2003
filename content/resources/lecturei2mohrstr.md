@@ -4,8 +4,6 @@ description: Mohr-Plane Construction
 file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/d499868b91a882acbb4c3373849753cd_lecturei2mohrstr.pdf
 file_size: 170938
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

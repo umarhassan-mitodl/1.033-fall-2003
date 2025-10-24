@@ -36,7 +36,6 @@
     "website": "1-033-mechanics-of-material-systems-an-energy-approach-fall-2003"
   },
   "course_title": "Mechanics of Material Systems: An Energy Approach",
-  "hide_download": true,
   "course_description": "1.033 provides an introduction to continuum mechanics and material modeling of engineering materials based on first energy principles: deformation and strain; momentum balance, stress and stress states; elasticity and elasticity bounds; plasticity and yield design. The overarching theme is a unified mechanistic language using thermodynamics, which allows understanding, modeling and design of a large range of engineering materials. This course is offered both to undergraduate (1.033) and graduate (1.57) students.\n",
   "department_numbers": [
     "1"
@@ -47,7 +46,6 @@
     "content": "869dc4ea-4904-48ff-5e01-60c698bc0b15",
     "website": "1-033-mechanics-of-material-systems-an-energy-approach-fall-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
